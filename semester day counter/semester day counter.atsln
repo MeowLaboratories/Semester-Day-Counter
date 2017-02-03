@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "semester day counter", "semester day counter\semester day counter.cproj", "{85D2BE6A-E5E1-4501-9AD1-CF78E337ED71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85D2BE6A-E5E1-4501-9AD1-CF78E337ED71}.Debug|AVR.ActiveCfg = Debug|AVR
+		{85D2BE6A-E5E1-4501-9AD1-CF78E337ED71}.Debug|AVR.Build.0 = Debug|AVR
+		{85D2BE6A-E5E1-4501-9AD1-CF78E337ED71}.Release|AVR.ActiveCfg = Release|AVR
+		{85D2BE6A-E5E1-4501-9AD1-CF78E337ED71}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
